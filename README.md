@@ -26,11 +26,6 @@ Cógido gerado no site https://www.md5hashgenerator.com/ \
 `JWT_SECRET=` 
 
 
-## Feedback
-
-Se você tiver algum feedback, por favor nos deixe saber por meio da página www.xxx.xxx seção feedback.
-
-
 ## Rodando localmente
 
 Clone o projeto
