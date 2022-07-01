@@ -1,12 +1,12 @@
 
 # BackEnd do projeto API Explorer
 
-Projeto realizado durante o curso de formação fullstack da Trybe que tem o objetivo de listar API's públicas por categorias e frontends construídos com base nas APIs.
+O projeto tem o objetivo de listar API's públicas por categorias e frontends construídos com base nas APIs.
 
 
 ## Referência
 
- - [Repositório frontend](https://github.com/thiagodanobrega/api-explorer)
+ - [Repositório frontend](https://github.com/thiagodanobrega/api-exporer-front)
 
 ## Variáveis de Ambiente
 
@@ -69,5 +69,5 @@ Inicie o servidor
 
 - [@Laecio](https://github.com/Laecio12)
 - [@Paolo](https://github.com/paolofullone)
-- [@Tiago](https://github.com/thiagodanobrega)
+- [@Thiago](https://github.com/thiagodanobrega)
 
